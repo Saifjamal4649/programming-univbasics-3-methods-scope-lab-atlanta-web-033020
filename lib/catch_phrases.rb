@@ -16,4 +16,6 @@ def link
 end
 
 
-def any_ph
+def any_phrase(phrase)
+  puts "Do A Barrel Roll!\n"
+end
